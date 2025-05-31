@@ -1,3 +1,4 @@
+//Write a program to print boundary pattern using * symbol.
 public class boundary_pattern {
     public static void main(String[] args) {
         int count = 1;
