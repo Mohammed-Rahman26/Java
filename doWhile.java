@@ -1,3 +1,4 @@
+//Write a program using Do while loop.
 public class doWhile {
     public static void main(String[] args){
         int i = 10;
