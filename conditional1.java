@@ -1,3 +1,4 @@
+//Write a program using conditional statements(if and else)
 import java.util.Scanner;
 public class conditional1 {
     public static void main(String[] args){
