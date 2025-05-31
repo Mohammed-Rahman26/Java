@@ -1,3 +1,4 @@
+//Write a program to print even numbers from 1 to 100.
 public class even_numbers {
     public static void main(String[] args) {
         System.out.println("Even numbers from 1 to 100:");
