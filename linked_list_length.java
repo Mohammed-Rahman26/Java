@@ -1,3 +1,4 @@
+//Write a program to find the length of the linked list.
 public class linked_list_length {
     static Node head;
 
