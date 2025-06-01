@@ -1,3 +1,4 @@
+//Write a program to find the missing element from of the series in the array.
 public class missing_element_array {
     public static void main (String[] args){
         int arr[] = {1, 2, 4, 5, 6, 7, 8, 9, 10};
