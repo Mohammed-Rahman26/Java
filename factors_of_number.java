@@ -1,3 +1,4 @@
+//Write a program to find the factors of a number.
 import java.util.Scanner;
 public class factors_of_number {
     public static void main(String[] args){
