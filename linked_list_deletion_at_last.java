@@ -1,3 +1,4 @@
+//Write a program to delete a node of linked list at the endingo of the list.
 public class linked_list_deletion_at_last {
     static Node head;
 
