@@ -1,3 +1,4 @@
+//Write a program to find teh nested for loop pattern.
 public class nested_for_pattern {
     public static void main(String[] args){
         int count=1;
