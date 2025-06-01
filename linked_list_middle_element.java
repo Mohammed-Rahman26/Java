@@ -1,3 +1,4 @@
+//Write a program to find the middle element of the linked list.
 public class linked_list_middle_element {
     static Node head;
 
