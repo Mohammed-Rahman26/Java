@@ -1,3 +1,4 @@
+//Write a program to understand the nested loop.
 public class nested_loop {
     public static void main(String[] args){
         int count=1;
