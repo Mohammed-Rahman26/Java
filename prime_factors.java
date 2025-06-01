@@ -1,3 +1,4 @@
+//Write a program to find the prime factors of a given input number.
 import java.util.Scanner;
 public class prime_factors {
     public static void main(String[] args){
