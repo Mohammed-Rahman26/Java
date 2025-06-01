@@ -1,3 +1,4 @@
+//Write a program to find if the given number is a factor of the other number or not.
 import java.util.Scanner;
 public class factor_or_not {
     public static void main(String[] args){
