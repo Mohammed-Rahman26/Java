@@ -6,6 +6,9 @@ class Node{
         this.next=null;
     }
 }
+//Node creation ends here.
+
+//Create a linked list.
 public class linked_list_creation {
     static Node head;
     linked_list_creation(){
