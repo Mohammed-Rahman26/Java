@@ -1,3 +1,4 @@
+//Write a program to understand the nested loop to print marks dn rank achieved.
 import java.util.Scanner;
 public class marks {
     public static void main(String[] args){
