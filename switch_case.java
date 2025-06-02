@@ -1,3 +1,4 @@
+//Write a program to understand the switch and case concept.
 import java.util.Scanner;
 public class switch_case {
     public static void main (String[] args){
