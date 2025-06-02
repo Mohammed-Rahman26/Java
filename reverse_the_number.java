@@ -1,3 +1,4 @@
+//Write a program to reverse the digits in the number and print it.
 import java.util.Scanner;
 public class reverse_the_number {
     public static void main(String[] args) {
