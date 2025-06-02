@@ -1,3 +1,4 @@
+//Write a program to find the sum of elements in an array.
 public class sum_of_elements_array {
     public static void main(String[] args){
         int sum = 0;
