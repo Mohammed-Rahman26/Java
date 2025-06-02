@@ -1,3 +1,4 @@
+//Write a program to create a stack and push elements into it.
 import java.util.Stack;
 public class stack_print_elements {
     public static void main(String[] args) {
