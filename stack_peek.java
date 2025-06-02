@@ -1,3 +1,4 @@
+//Write a program to peek(know the 1st eloement) into a stack.
 import java.util.Stack;
 
 public class stack_peek {
