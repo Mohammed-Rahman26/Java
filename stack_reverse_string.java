@@ -1,3 +1,4 @@
+//Write a program to reverse the string using stack.
 import java.util.Stack;
 
 public class stack_reverse_string {
