@@ -1,3 +1,4 @@
+//Write a program to balance the paranthesis using stack.
 import java.util.Stack;
 public class stack_balanced_paranthesis {
     public static boolean isBalanced(String expr) {
