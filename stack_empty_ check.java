@@ -1,3 +1,4 @@
+//Write a program to check if the stack is empty or not.
 import java.util.Stack;
 class stack_empty_check {
     public static void main(String[] args) {
