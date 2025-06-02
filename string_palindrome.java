@@ -1,3 +1,4 @@
+//Wtite a program to check if the given string is palindrome or not?
 public class string_palindrome {
     public static void main(String[] args){
                 String name = "car";
