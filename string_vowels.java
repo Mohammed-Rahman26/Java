@@ -1,3 +1,4 @@
+//Write a program to check if the given string contains vowels or not and count the number of vowels.
 public class string_vowels {
     public static void main(String[] args) {
         char[] vowels = {'a', 'e', 'i', 'o', 'u'};
