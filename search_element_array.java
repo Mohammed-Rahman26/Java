@@ -1,3 +1,4 @@
+//Write a program to search for an element in the array.
 import java.util.Scanner;
 public class search_element_array{
     public static void main(String[] args){
