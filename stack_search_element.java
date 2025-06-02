@@ -1,3 +1,4 @@
+//Write a program to search for an element in the stack.
 import java.util.Stack;
 public class stack_search_element {
     public static void main(String[] args) {
