@@ -1,3 +1,4 @@
+//Write a programm to perform push and pop operations on a stack.
 import java.util.Stack;
 
 public class stack_push_pop {
