@@ -1,3 +1,4 @@
+//Write a program to find the sum of the first "n" natural numbers.
 import java.util.Scanner;
 public class sum_of_natural_numbers {
     public static void main(String[] args) {
