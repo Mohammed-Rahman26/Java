@@ -1,3 +1,4 @@
+//Write a program to reverse a given string and print it.
 public class reverse_a_string {
     public static void main(String [] args){
         String name = "vikash";
